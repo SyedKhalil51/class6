@@ -1,0 +1,29 @@
+.container
+{
+    border: 5px solid #2ecc71;
+    width: 800px;
+    display: flow-root;
+    margin: 25px;
+    padding: 20px;
+
+}
+
+.child1
+{
+    background-color: red;
+    border: 5px solid #e67e22;
+    width: 300px;
+    float: left;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.child2
+{
+    background-color: #8e44ad;
+    border: 5px solid #e67e22;
+    width: 300px;
+    float: right;
+    height: 200px;
+    border-radius: 20px;
+}
